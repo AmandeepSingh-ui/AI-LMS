@@ -1,4 +1,4 @@
-# ?? Skill Navigator - AI-Powered Learning Platform
+# ?? AI LMS - AI-Powered Learning Platform
 
 An intelligent learning platform that generates personalized roadmaps for mastering tech skills, powered by Google Gemini AI. Track your progress with detailed analytics, access curated video resources, and leverage ML-driven insights for an optimized learning journey.
 
@@ -248,7 +248,7 @@ cd client && npm install && cd ..
 ## ?? Project Structure
 
 ```
-skill-navigator/
+ai-lms/
 ├── client/              # React frontend
 │   ├── src/
 │   │   ├── components/  # Reusable UI components
